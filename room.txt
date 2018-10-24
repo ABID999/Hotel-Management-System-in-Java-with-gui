@@ -1,0 +1,8 @@
+Standard
+200
+Double
+300
+Delux
+400
+Villa
+600
